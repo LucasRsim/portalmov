@@ -145,8 +145,9 @@ ul {
 }
 
 .logo {
-    height: 50px; /* Ajuste conforme necessário */
-    margin-right: 20px; /* Espaço entre a logo e os itens do menu */
+    height: 40px; /* Ajuste conforme necessário */
+    margin-right: 25px; /* Espaço entre a logo e os itens do menu */
+
 }
 
 nav {
